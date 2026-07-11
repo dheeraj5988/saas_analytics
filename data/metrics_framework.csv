@@ -1,0 +1,13 @@
+category,metric,current_value,benchmark,status
+Acquisition,Monthly Signups,"1,956",Growing,healthy
+Activation,Onboarding Rate,70.2%,60-80%,healthy
+Activation,Feature Adoption,90.2%,40-60%,healthy
+Engagement,MAU,6,Growing,healthy
+Engagement,DAU/MAU Stickiness,20.0%,>25%,warning
+Retention,Overall Retention,78.9%,>70%,healthy
+Retention,Free Churn,30.9%,<30%,warning
+Retention,Paid Churn,6.7%,<10%,healthy
+Revenue,MRR,"$255,329",Growing,healthy
+Revenue,ARPU,$67.49,>$40,healthy
+Revenue,Free-to-Paid,24.7%,3-7%,healthy
+Referral,Invite Rate,57.5%,>10%,healthy

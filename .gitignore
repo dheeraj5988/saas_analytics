@@ -1,0 +1,5 @@
+venv/
+data/raw/
+.env
+echo "data/*.csv" >> .gitignore
+git add .gitignore
